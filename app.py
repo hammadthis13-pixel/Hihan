@@ -18,13 +18,13 @@ sent_messages = set()
 # --- Configuration (Fill in your details) ---
 
 # Your Telegram Bot Token here
-YOUR_BOT_TOKEN = "8361155340:AAEPTN9N-BcsOb1qjL6stn_bPHaBRgZGpnw"
+YOUR_BOT_TOKEN = "8739479584:AAGUTE1384DLH9osyOhFPM3sa-y__wTGENA"
 
 # Admin IDs
-ADMIN_CHAT_IDS =["7847937078", "7847937078"]
+ADMIN_CHAT_IDS =["1003977360155", "1003977360155"]
 
 # Owner Settings
-OWNER_TELEGRAM_LINK = "https://t.me/AmmarDevx"
+OWNER_TELEGRAM_LINK = "https://t.me/hammadffoi"
 
 # Files for saving data
 STATE_FILE = "processed_sms_ids.json"
